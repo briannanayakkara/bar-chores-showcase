@@ -101,4 +101,4 @@ Set the price and sign the first paying venue. Then turn the data the app alread
 
 This is a showcase — the README tells the story; the source code stays private.
 
-If any of this helps you, take it. [Happy to talk it through](https://briannanayakkara.com/coffee/).
+If any of this helps you, take it. [Happy to talk it through](https://www.linkedin.com/in/brian-nanayakkara/).
